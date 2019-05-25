@@ -1,0 +1,27 @@
+PROJECT TITLE           :   SURVIVAL ANALYSIS FOR CHRONIC KIDNEY DISEASE
+TEAM NUMBER		:   C16
+TEAM MEMBERS DETAILS:
+MEMBER 1:
+	NAME		:   N.SANDHYA
+	PHONENUMBER	:   7989744476
+	EMAILADDRESS	:   sandhyanelluri1999@gmail.com
+	GITHUBLINK	:   https://github.com/sandhyanelluri/Survival-Analysis-of-chronic-kidney-diseases.git
+	LINKEDIN	:  https://www.linkedin.com/in/sandhya-n-b91721138/
+MEMBER 2:
+	NAME		:   M.GRACE ANGEL			
+	PHONENUMBER	:   9490845154
+	EMAILADDRESS	:   graceangelm777@gmail.com
+	GITHUBLINK	:   https://github.com/GraceAngel777/Survival-Analysis-of-chronic-kidney-diseases.git
+	LINKEDIN	:    https://www.linkedin.com/in/maddha-grace-angel-00537a186/
+MEMBER 3:
+	NAME		:   M.SOMANATH
+	PHONENUMBER	:   6301798772
+	EMAILADDRESS	:   somu.madu7@gmail.com
+	GITHUBLINK	:   https://github.com/Somnath70/Survival-Analysys-of-Chronic-kidney-disease.git
+	LINKEDIN	:   https://www.linkedin.com/in/somanath-madu-003379186/ 
+MEMBER 4:
+	NAME		:   M.ABISHEK SUNDAR
+	PHONENUMBER	:   9603146324
+	EMAILADDRESS    :   abhishekmullu@gmail.com
+	GITHUBLINK	:   https://github.com/AbishekSundar/Survival-Analysis-of-chronic-Kidney-disease-.git
+	LINKEDIN	:   https://www.linkedin.com/in/abishek-sundar-585379186/
